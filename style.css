@@ -15,7 +15,7 @@ body {
 /* 🧱 Layout */
 .container {
   display: grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-columns: 2fr 1fr;
   max-width: 1000px;
   margin: 40px auto;
   background: white;
